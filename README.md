@@ -1,4 +1,4 @@
-# Flutter UI Concept Music Player
+# YEBA Flutter Music Player
 This app just experiment for created beautiful UI with Flutter.
 
 ### Design
